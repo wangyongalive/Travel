@@ -2,7 +2,7 @@
   "name": "travel",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "wang",
+  "author": "jsonwang0102",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
